@@ -1,1 +1,2 @@
 Some text added to demo.txt
+text added localy to demo.txt
